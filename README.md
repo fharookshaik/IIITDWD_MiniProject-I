@@ -1,2 +1,1 @@
-# IIITDWD_MiniProject-I
-Multimodal Fake News Detection
+# Multimodal Fake News Detection
